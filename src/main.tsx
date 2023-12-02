@@ -4,7 +4,8 @@ import ReactDOM from 'react-dom/client'
 import 'normalize.css'
 
 //  UI 框架的样式
-
+// 全局样式
+import './assets/css/base.scss'
 // 组件的样式
 
 
